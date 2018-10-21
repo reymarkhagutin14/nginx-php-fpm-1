@@ -1,5 +1,6 @@
 FROM debian:stretch
 
+
 MAINTAINER Colin Wilson "colin@wyveo.com"
 
 # Let the container know that there is no tty
